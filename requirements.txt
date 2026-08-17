@@ -1,0 +1,13 @@
+numpy>=1.24.3
+pandas>=2.2.3
+scikit-learn>=1.2.2
+scipy>=1.14.1
+networkx>=3.1
+torch>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.2
+tqdm>=4.65.0
+pytest>=7.0.0
+jupyter>=1.0.0
+nbformat>=5.10.4
+nbclient>=0.11.0

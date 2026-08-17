@@ -1,9 +1,6 @@
 # Identifying structural design principles shaping the computational abilities of recurrent neural networks
 
-Code accompanying:
-
-> **Identifying structural design principles shaping the computational abilities of recurrent neural networks**
-> Tom Talpir and Elad Schneidman
+Code for *Identifying structural design principles shaping the computational abilities of recurrent neural networks* by Tom Talpir and Elad Schneidman
 
 Preprint: [arxiv.org/abs/2606.23874](https://arxiv.org/abs/2606.23874)
 
